@@ -1,7 +1,7 @@
 /*
-Name:  Godson Fortil                     Z#:  23320667
+Name:  Godson Fortil                     Z#:
 Course: Foundations of Computer Science (COP3014)
-Professor: Dr. Lofton Bullard
+Professor: 
 Due Date:  04/29/2016                    Due Time: 11:59
 Total Points: 100
 Assignment 8: call_stats8.cpp*/
